@@ -1,0 +1,266 @@
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.exe
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.deps.json
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.runtimeconfig.json
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.runtimeconfig.dev.json
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.pdb
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.Views.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.Views.pdb
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\dev4\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.csprojAssemblyReference.cache
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.AssemblyInfoInputs.cache
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.AssemblyInfo.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.csproj.CoreCompileInputs.cache
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.MvcApplicationPartsAssemblyInfo.cache
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.RazorComponent.input.cache
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\People.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Product.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\BlazorApp1.dll
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.TagHelpers.input.cache
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.TagHelpers.output.cache
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.RazorCoreGenerate.cache
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\People.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\Product.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.RazorAssemblyInfo.cache
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.RazorAssemblyInfo.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.RazorTargetAssemblyInfo.cache
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.RazorTargetAssemblyInfo.cs
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.Views.pdb
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.csproj.CopyComplete
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\staticwebassets\BlazorApp1.StaticWebAssets.Manifest.cache
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\staticwebassets\BlazorApp1.StaticWebAssets.xml
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.dll
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.pdb
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.genruntimeconfig.cache
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.RazorComponent.output.cache
+C:\dev4\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlazorApp1.styles.css
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.exe
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.deps.json
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.runtimeconfig.json
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.runtimeconfig.dev.json
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.pdb
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.Views.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\BlazorApp1.Views.pdb
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.csprojAssemblyReference.cache
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.AssemblyInfoInputs.cache
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.AssemblyInfo.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.csproj.CoreCompileInputs.cache
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.MvcApplicationPartsAssemblyInfo.cache
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.RazorComponent.input.cache
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\People.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Product.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.RazorComponent.output.cache
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\RazorDeclaration\BlazorApp1.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.TagHelpers.input.cache
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.TagHelpers.output.cache
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.RazorCoreGenerate.cache
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\People.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\Product.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.RazorAssemblyInfo.cache
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.RazorAssemblyInfo.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\staticwebassets\BlazorApp1.StaticWebAssets.Manifest.cache
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\staticwebassets\BlazorApp1.StaticWebAssets.xml
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlazorApp1.styles.css
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.RazorTargetAssemblyInfo.cache
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.RazorTargetAssemblyInfo.cs
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.Views.pdb
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.csproj.CopyComplete
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.dll
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.pdb
+D:\mydata\OneDrive - mvp\temp\DevsSpeak\BlazorApp1\BlazorApp1\obj\Debug\netcoreapp3.1\BlazorApp1.genruntimeconfig.cache

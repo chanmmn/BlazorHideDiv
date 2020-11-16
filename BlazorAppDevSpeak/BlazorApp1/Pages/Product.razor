@@ -1,0 +1,66 @@
+﻿@page "/"
+@using BlazorApp1.Data
+@inject PeopleService PeopleService
+
+<h3>Product</h3>
+
+@if (forecasts == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Unit Price (C)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var forecast in forecasts)
+            {
+                <tr>
+                    <td>@forecast.ProductName.</td>
+                    <td>@forecast.UnitPrice</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<div hidden="@IsShow">
+    <h3>Edit Product</h3>
+    Product Name<br/>
+    <p><input class="form-control" @bind="ProdName" /></p>
+    Price<br />
+    <p><input class="form-control" @bind="UnitPrice" /></p>
+</div>
+
+<button class="btn btn-primary" @onclick="@Show">Edit</button>
+<button class="btn btn-primary" @onclick="@ProductUpdate">Update</button>
+
+@code {
+    //private WeatherForecast[] forecasts;
+    private ProductModel[] forecasts;
+    private bool IsShow { get; set; } = true;
+
+    private float UnitPrice { get; set; }
+    public string ProdName { get; set; }
+
+    private void Show()
+    {
+        IsShow = !IsShow;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+
+        forecasts = await PeopleService.GetProductAsync(DateTime.Now);
+    }
+
+    public void ProductUpdate()
+    {
+        PeopleService.UpdateProduct(ProdName, UnitPrice);
+    }
+}
